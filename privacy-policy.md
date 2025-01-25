@@ -10,4 +10,4 @@ Nosso bot pode coletar e armazenar as seguintes informações:
 Não compartilhamos suas informações com terceiros e garantimos segurança adequada.
 
 ## 📞 Contato
-Para dúvidas sobre esta política, entre em contato pelo Discord: **SeuUsuário#1234**
+Para dúvidas sobre esta política, entre em contato pelo Discord: **etherium.**
